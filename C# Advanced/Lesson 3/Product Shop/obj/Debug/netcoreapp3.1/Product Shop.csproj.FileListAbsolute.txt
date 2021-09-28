@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.exe
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.genruntimeconfig.cache

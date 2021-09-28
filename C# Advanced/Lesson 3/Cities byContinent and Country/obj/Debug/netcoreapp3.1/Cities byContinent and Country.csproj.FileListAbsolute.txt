@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\bin\Debug\netcoreapp3.1\Cities byContinent and Country.exe
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\bin\Debug\netcoreapp3.1\Cities byContinent and Country.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\bin\Debug\netcoreapp3.1\Cities byContinent and Country.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\bin\Debug\netcoreapp3.1\Cities byContinent and Country.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\bin\Debug\netcoreapp3.1\Cities byContinent and Country.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\bin\Debug\netcoreapp3.1\Cities byContinent and Country.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Cities byContinent and Country\obj\Debug\netcoreapp3.1\Cities byContinent and Country.genruntimeconfig.cache

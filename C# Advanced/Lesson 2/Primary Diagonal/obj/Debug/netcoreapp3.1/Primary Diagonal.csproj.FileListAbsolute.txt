@@ -1,0 +1,13 @@
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.exe
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.dll
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.pdb
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.dll
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.pdb
+D:\SoftUni C#\C# Advanced\Lesson 2\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.exe
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.genruntimeconfig.cache

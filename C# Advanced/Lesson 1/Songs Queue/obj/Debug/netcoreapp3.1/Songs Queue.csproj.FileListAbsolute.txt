@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.exe
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.genruntimeconfig.cache

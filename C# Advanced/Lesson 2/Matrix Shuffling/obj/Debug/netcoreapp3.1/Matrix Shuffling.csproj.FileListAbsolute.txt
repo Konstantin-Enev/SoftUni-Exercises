@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.exe
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.dll
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.pdb
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.dll
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.pdb
+D:\SoftUni C#\C# Advanced\Lesson 2\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.genruntimeconfig.cache

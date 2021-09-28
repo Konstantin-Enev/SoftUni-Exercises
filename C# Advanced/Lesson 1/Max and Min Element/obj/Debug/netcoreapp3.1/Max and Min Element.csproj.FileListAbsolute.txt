@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\bin\Debug\netcoreapp3.1\Max and Min Element.exe
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\bin\Debug\netcoreapp3.1\Max and Min Element.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\bin\Debug\netcoreapp3.1\Max and Min Element.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\bin\Debug\netcoreapp3.1\Max and Min Element.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\bin\Debug\netcoreapp3.1\Max and Min Element.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\bin\Debug\netcoreapp3.1\Max and Min Element.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Max and Min Element\obj\Debug\netcoreapp3.1\Max and Min Element.genruntimeconfig.cache

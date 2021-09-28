@@ -1,0 +1,13 @@
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\bin\Debug\netcoreapp3.1\Trafic Jam.exe
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\bin\Debug\netcoreapp3.1\Trafic Jam.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\bin\Debug\netcoreapp3.1\Trafic Jam.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\bin\Debug\netcoreapp3.1\Trafic Jam.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\bin\Debug\netcoreapp3.1\Trafic Jam.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\bin\Debug\netcoreapp3.1\Trafic Jam.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\obj\Debug\netcoreapp3.1\Trafic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\obj\Debug\netcoreapp3.1\Trafic Jam.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\obj\Debug\netcoreapp3.1\Trafic Jam.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\obj\Debug\netcoreapp3.1\Trafic Jam.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\obj\Debug\netcoreapp3.1\Trafic Jam.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\obj\Debug\netcoreapp3.1\Trafic Jam.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Trafic Jam\obj\Debug\netcoreapp3.1\Trafic Jam.genruntimeconfig.cache

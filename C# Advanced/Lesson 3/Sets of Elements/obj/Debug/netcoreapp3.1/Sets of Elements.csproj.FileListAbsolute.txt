@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.exe
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.genruntimeconfig.cache

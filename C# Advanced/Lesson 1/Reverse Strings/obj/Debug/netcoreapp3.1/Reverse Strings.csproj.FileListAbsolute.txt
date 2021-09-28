@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.exe
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.genruntimeconfig.cache

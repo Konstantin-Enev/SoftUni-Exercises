@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.exe
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.dll
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.pdb
+D:\SoftUni C#\C# Advanced\Lesson 1\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.genruntimeconfig.cache

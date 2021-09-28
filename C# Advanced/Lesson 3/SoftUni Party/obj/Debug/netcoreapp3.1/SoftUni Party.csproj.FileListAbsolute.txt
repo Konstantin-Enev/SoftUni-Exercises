@@ -1,0 +1,13 @@
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.exe
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.dll
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.pdb
+D:\SoftUni C#\C# Advanced\Lesson 3\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.exe
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.deps.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.runtimeconfig.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.runtimeconfig.dev.json
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.dll
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.pdb
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.csproj.AssemblyReference.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.AssemblyInfoInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.AssemblyInfo.cs
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.dll
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.pdb
+D:\SoftUni C#\C# Advanced\Lesson 2\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.genruntimeconfig.cache
