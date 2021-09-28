@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.genruntimeconfig.cache

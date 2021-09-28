@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 7\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.genruntimeconfig.cache

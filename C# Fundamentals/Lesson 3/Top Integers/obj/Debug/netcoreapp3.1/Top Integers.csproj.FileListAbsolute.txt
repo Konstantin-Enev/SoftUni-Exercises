@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.genruntimeconfig.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.csproj.AssemblyReference.cache

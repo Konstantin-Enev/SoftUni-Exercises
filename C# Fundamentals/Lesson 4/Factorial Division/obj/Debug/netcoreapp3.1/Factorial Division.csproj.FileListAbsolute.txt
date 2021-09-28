@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\bin\Debug\netcoreapp3.1\Smaller of Three Numbers.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\bin\Debug\netcoreapp3.1\Smaller of Three Numbers.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\bin\Debug\netcoreapp3.1\Smaller of Three Numbers.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\bin\Debug\netcoreapp3.1\Smaller of Three Numbers.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\bin\Debug\netcoreapp3.1\Smaller of Three Numbers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\bin\Debug\netcoreapp3.1\Smaller of Three Numbers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\obj\Debug\netcoreapp3.1\Smaller of Three Numbers.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\obj\Debug\netcoreapp3.1\Smaller of Three Numbers.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\obj\Debug\netcoreapp3.1\Smaller of Three Numbers.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\obj\Debug\netcoreapp3.1\Smaller of Three Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\obj\Debug\netcoreapp3.1\Smaller of Three Numbers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\obj\Debug\netcoreapp3.1\Smaller of Three Numbers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Smaller of Three Numbers\obj\Debug\netcoreapp3.1\Smaller of Three Numbers.genruntimeconfig.cache

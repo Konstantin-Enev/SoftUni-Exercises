@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.genruntimeconfig.cache

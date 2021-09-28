@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.exe
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.deps.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\bin\Debug\netcoreapp3.1\Data Types.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\bin\Debug\netcoreapp3.1\Data Types.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\bin\Debug\netcoreapp3.1\Data Types.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\bin\Debug\netcoreapp3.1\Data Types.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\obj\Debug\netcoreapp3.1\Data Types.csprojAssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\obj\Debug\netcoreapp3.1\Data Types.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\obj\Debug\netcoreapp3.1\Data Types.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\obj\Debug\netcoreapp3.1\Data Types.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Data Types\obj\Debug\netcoreapp3.1\Data Types.genruntimeconfig.cache

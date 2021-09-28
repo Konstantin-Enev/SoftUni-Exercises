@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programing Basics\Exams\CatFood\bin\Debug\netcoreapp3.1\CatFood.exe
+D:\SoftUni C#\Programing Basics\Exams\CatFood\bin\Debug\netcoreapp3.1\CatFood.deps.json
+D:\SoftUni C#\Programing Basics\Exams\CatFood\bin\Debug\netcoreapp3.1\CatFood.runtimeconfig.json
+D:\SoftUni C#\Programing Basics\Exams\CatFood\bin\Debug\netcoreapp3.1\CatFood.runtimeconfig.dev.json
+D:\SoftUni C#\Programing Basics\Exams\CatFood\bin\Debug\netcoreapp3.1\CatFood.dll
+D:\SoftUni C#\Programing Basics\Exams\CatFood\bin\Debug\netcoreapp3.1\CatFood.pdb
+D:\SoftUni C#\Programing Basics\Exams\CatFood\obj\Debug\netcoreapp3.1\CatFood.csprojAssemblyReference.cache
+D:\SoftUni C#\Programing Basics\Exams\CatFood\obj\Debug\netcoreapp3.1\CatFood.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\CatFood\obj\Debug\netcoreapp3.1\CatFood.AssemblyInfo.cs
+D:\SoftUni C#\Programing Basics\Exams\CatFood\obj\Debug\netcoreapp3.1\CatFood.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\CatFood\obj\Debug\netcoreapp3.1\CatFood.dll
+D:\SoftUni C#\Programing Basics\Exams\CatFood\obj\Debug\netcoreapp3.1\CatFood.pdb
+D:\SoftUni C#\Programing Basics\Exams\CatFood\obj\Debug\netcoreapp3.1\CatFood.genruntimeconfig.cache

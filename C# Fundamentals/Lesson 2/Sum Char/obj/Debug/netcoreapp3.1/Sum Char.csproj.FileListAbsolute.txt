@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\bin\Debug\netcoreapp3.1\Sum Char.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\bin\Debug\netcoreapp3.1\Sum Char.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\bin\Debug\netcoreapp3.1\Sum Char.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\bin\Debug\netcoreapp3.1\Sum Char.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\bin\Debug\netcoreapp3.1\Sum Char.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\bin\Debug\netcoreapp3.1\Sum Char.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\obj\Debug\netcoreapp3.1\Sum Char.csprojAssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\obj\Debug\netcoreapp3.1\Sum Char.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\obj\Debug\netcoreapp3.1\Sum Char.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\obj\Debug\netcoreapp3.1\Sum Char.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\obj\Debug\netcoreapp3.1\Sum Char.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\obj\Debug\netcoreapp3.1\Sum Char.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 2\Sum Char\obj\Debug\netcoreapp3.1\Sum Char.genruntimeconfig.cache

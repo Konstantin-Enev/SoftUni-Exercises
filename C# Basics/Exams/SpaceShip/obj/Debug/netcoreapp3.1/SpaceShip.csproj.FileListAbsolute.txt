@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.exe
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.deps.json
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.runtimeconfig.json
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.runtimeconfig.dev.json
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.dll
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.pdb
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.AssemblyInfo.cs
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.dll
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.pdb
+D:\SoftUni C#\Programing Basics\Exams\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\bin\Debug\netcoreapp3.1\Extract File.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\bin\Debug\netcoreapp3.1\Extract File.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\bin\Debug\netcoreapp3.1\Extract File.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\bin\Debug\netcoreapp3.1\Extract File.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\obj\Debug\netcoreapp3.1\Extract File.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\obj\Debug\netcoreapp3.1\Extract File.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\obj\Debug\netcoreapp3.1\Extract File.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Extract File\obj\Debug\netcoreapp3.1\Extract File.genruntimeconfig.cache

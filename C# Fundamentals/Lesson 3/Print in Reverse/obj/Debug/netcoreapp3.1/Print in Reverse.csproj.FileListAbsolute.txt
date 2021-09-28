@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\bin\Debug\netcoreapp3.1\Print in Reverse.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\bin\Debug\netcoreapp3.1\Print in Reverse.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\bin\Debug\netcoreapp3.1\Print in Reverse.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\bin\Debug\netcoreapp3.1\Print in Reverse.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\bin\Debug\netcoreapp3.1\Print in Reverse.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\bin\Debug\netcoreapp3.1\Print in Reverse.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\obj\Debug\netcoreapp3.1\Print in Reverse.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\obj\Debug\netcoreapp3.1\Print in Reverse.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\obj\Debug\netcoreapp3.1\Print in Reverse.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\obj\Debug\netcoreapp3.1\Print in Reverse.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\obj\Debug\netcoreapp3.1\Print in Reverse.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Print in Reverse\obj\Debug\netcoreapp3.1\Print in Reverse.genruntimeconfig.cache

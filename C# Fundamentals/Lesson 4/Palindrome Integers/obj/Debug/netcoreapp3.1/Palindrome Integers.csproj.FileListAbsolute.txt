@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.genruntimeconfig.cache

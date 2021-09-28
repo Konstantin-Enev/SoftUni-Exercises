@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\bin\Debug\netcoreapp3.1\Even Odd Subtraction.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\bin\Debug\netcoreapp3.1\Even Odd Subtraction.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\bin\Debug\netcoreapp3.1\Even Odd Subtraction.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\bin\Debug\netcoreapp3.1\Even Odd Subtraction.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\bin\Debug\netcoreapp3.1\Even Odd Subtraction.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\bin\Debug\netcoreapp3.1\Even Odd Subtraction.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\obj\Debug\netcoreapp3.1\Even Odd Subtraction.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\obj\Debug\netcoreapp3.1\Even Odd Subtraction.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\obj\Debug\netcoreapp3.1\Even Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\obj\Debug\netcoreapp3.1\Even Odd Subtraction.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\obj\Debug\netcoreapp3.1\Even Odd Subtraction.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Even Odd Subtraction\obj\Debug\netcoreapp3.1\Even Odd Subtraction.genruntimeconfig.cache

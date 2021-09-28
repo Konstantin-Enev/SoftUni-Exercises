@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\bin\Debug\netcoreapp3.1\Sign of Integer.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\bin\Debug\netcoreapp3.1\Sign of Integer.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\bin\Debug\netcoreapp3.1\Sign of Integer.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\bin\Debug\netcoreapp3.1\Sign of Integer.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\bin\Debug\netcoreapp3.1\Sign of Integer.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\bin\Debug\netcoreapp3.1\Sign of Integer.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\obj\Debug\netcoreapp3.1\Sign of Integer.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\obj\Debug\netcoreapp3.1\Sign of Integer.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\obj\Debug\netcoreapp3.1\Sign of Integer.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\obj\Debug\netcoreapp3.1\Sign of Integer.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\obj\Debug\netcoreapp3.1\Sign of Integer.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\obj\Debug\netcoreapp3.1\Sign of Integer.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Sign of Integer\obj\Debug\netcoreapp3.1\Sign of Integer.genruntimeconfig.cache

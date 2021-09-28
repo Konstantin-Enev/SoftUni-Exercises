@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 8\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.genruntimeconfig.cache

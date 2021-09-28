@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programing Basics\Exams\PreExam\bin\Debug\netcoreapp3.1\PreExam.exe
+D:\SoftUni C#\Programing Basics\Exams\PreExam\bin\Debug\netcoreapp3.1\PreExam.deps.json
+D:\SoftUni C#\Programing Basics\Exams\PreExam\bin\Debug\netcoreapp3.1\PreExam.runtimeconfig.json
+D:\SoftUni C#\Programing Basics\Exams\PreExam\bin\Debug\netcoreapp3.1\PreExam.runtimeconfig.dev.json
+D:\SoftUni C#\Programing Basics\Exams\PreExam\bin\Debug\netcoreapp3.1\PreExam.dll
+D:\SoftUni C#\Programing Basics\Exams\PreExam\bin\Debug\netcoreapp3.1\PreExam.pdb
+D:\SoftUni C#\Programing Basics\Exams\PreExam\obj\Debug\netcoreapp3.1\PreExam.csprojAssemblyReference.cache
+D:\SoftUni C#\Programing Basics\Exams\PreExam\obj\Debug\netcoreapp3.1\PreExam.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\PreExam\obj\Debug\netcoreapp3.1\PreExam.AssemblyInfo.cs
+D:\SoftUni C#\Programing Basics\Exams\PreExam\obj\Debug\netcoreapp3.1\PreExam.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\PreExam\obj\Debug\netcoreapp3.1\PreExam.dll
+D:\SoftUni C#\Programing Basics\Exams\PreExam\obj\Debug\netcoreapp3.1\PreExam.pdb
+D:\SoftUni C#\Programing Basics\Exams\PreExam\obj\Debug\netcoreapp3.1\PreExam.genruntimeconfig.cache

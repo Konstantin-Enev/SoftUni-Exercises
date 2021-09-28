@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.exe
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.deps.json
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.runtimeconfig.json
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.runtimeconfig.dev.json
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.dll
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.pdb
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.AssemblyInfo.cs
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.dll
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.pdb
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.genruntimeconfig.cache
+D:\SoftUni C#\Programing Basics\Exams\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.csprojAssemblyReference.cache

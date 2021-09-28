@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\bin\Debug\netcoreapp3.1\Greater Value.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\bin\Debug\netcoreapp3.1\Greater Value.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\bin\Debug\netcoreapp3.1\Greater Value.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\bin\Debug\netcoreapp3.1\Greater Value.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\bin\Debug\netcoreapp3.1\Greater Value.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\bin\Debug\netcoreapp3.1\Greater Value.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\obj\Debug\netcoreapp3.1\Greater Value.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\obj\Debug\netcoreapp3.1\Greater Value.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\obj\Debug\netcoreapp3.1\Greater Value.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\obj\Debug\netcoreapp3.1\Greater Value.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\obj\Debug\netcoreapp3.1\Greater Value.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Greater Value\obj\Debug\netcoreapp3.1\Greater Value.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 3\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.genruntimeconfig.cache

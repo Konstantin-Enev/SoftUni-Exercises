@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.exe
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.deps.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.genruntimeconfig.cache

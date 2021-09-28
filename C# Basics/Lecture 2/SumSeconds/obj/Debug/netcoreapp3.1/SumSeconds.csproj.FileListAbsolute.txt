@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csprojAssemblyReference.cache
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+D:\SoftUni C#\Programing Basics\Exercises\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

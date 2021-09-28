@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 1\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.genruntimeconfig.cache

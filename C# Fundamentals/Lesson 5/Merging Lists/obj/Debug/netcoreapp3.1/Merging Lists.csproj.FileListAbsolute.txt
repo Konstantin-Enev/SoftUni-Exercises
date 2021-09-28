@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.genruntimeconfig.cache

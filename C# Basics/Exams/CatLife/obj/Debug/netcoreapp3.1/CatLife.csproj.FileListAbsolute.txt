@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programing Basics\Exams\CatLife\bin\Debug\netcoreapp3.1\CatLife.exe
+D:\SoftUni C#\Programing Basics\Exams\CatLife\bin\Debug\netcoreapp3.1\CatLife.deps.json
+D:\SoftUni C#\Programing Basics\Exams\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.json
+D:\SoftUni C#\Programing Basics\Exams\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.dev.json
+D:\SoftUni C#\Programing Basics\Exams\CatLife\bin\Debug\netcoreapp3.1\CatLife.dll
+D:\SoftUni C#\Programing Basics\Exams\CatLife\bin\Debug\netcoreapp3.1\CatLife.pdb
+D:\SoftUni C#\Programing Basics\Exams\CatLife\obj\Debug\netcoreapp3.1\CatLife.csprojAssemblyReference.cache
+D:\SoftUni C#\Programing Basics\Exams\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfo.cs
+D:\SoftUni C#\Programing Basics\Exams\CatLife\obj\Debug\netcoreapp3.1\CatLife.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programing Basics\Exams\CatLife\obj\Debug\netcoreapp3.1\CatLife.dll
+D:\SoftUni C#\Programing Basics\Exams\CatLife\obj\Debug\netcoreapp3.1\CatLife.pdb
+D:\SoftUni C#\Programing Basics\Exams\CatLife\obj\Debug\netcoreapp3.1\CatLife.genruntimeconfig.cache

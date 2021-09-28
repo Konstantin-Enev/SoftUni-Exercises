@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\bin\Debug\netcoreapp3.1\Guess Trick.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\bin\Debug\netcoreapp3.1\Guess Trick.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\bin\Debug\netcoreapp3.1\Guess Trick.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\bin\Debug\netcoreapp3.1\Guess Trick.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\bin\Debug\netcoreapp3.1\Guess Trick.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\bin\Debug\netcoreapp3.1\Guess Trick.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\obj\Debug\netcoreapp3.1\Guess Trick.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\obj\Debug\netcoreapp3.1\Guess Trick.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\obj\Debug\netcoreapp3.1\Guess Trick.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\obj\Debug\netcoreapp3.1\Guess Trick.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\obj\Debug\netcoreapp3.1\Guess Trick.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\obj\Debug\netcoreapp3.1\Guess Trick.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 5\Guess Trick\obj\Debug\netcoreapp3.1\Guess Trick.genruntimeconfig.cache

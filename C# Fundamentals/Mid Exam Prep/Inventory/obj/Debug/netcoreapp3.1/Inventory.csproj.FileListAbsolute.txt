@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache

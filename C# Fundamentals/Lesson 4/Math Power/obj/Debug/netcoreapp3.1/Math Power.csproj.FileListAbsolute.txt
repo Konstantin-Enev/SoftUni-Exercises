@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\bin\Debug\netcoreapp3.1\Math Power.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\bin\Debug\netcoreapp3.1\Math Power.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\bin\Debug\netcoreapp3.1\Math Power.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\bin\Debug\netcoreapp3.1\Math Power.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\bin\Debug\netcoreapp3.1\Math Power.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\bin\Debug\netcoreapp3.1\Math Power.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\obj\Debug\netcoreapp3.1\Math Power.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\obj\Debug\netcoreapp3.1\Math Power.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\obj\Debug\netcoreapp3.1\Math Power.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\obj\Debug\netcoreapp3.1\Math Power.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\obj\Debug\netcoreapp3.1\Math Power.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Math Power\obj\Debug\netcoreapp3.1\Math Power.genruntimeconfig.cache

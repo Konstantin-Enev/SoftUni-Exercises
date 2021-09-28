@@ -1,0 +1,12 @@
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.exe
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.deps.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.dll
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.pdb
+D:\SoftUni C#\Programming Fundamentals\Lesson 4\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.genruntimeconfig.cache

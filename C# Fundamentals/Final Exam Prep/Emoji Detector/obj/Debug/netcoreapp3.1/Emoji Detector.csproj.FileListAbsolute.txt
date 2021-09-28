@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.exe
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.deps.json
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.dll
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.pdb
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.dll
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.pdb
+D:\SoftUni C#\Programming Fundamentals\Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.genruntimeconfig.cache

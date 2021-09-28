@@ -1,0 +1,13 @@
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.exe
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.deps.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.dev.json
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.csproj.AssemblyReference.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfoInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfo.cs
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.csproj.CoreCompileInputs.cache
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.dll
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.pdb
+D:\SoftUni C#\Programming Fundamentals\Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.genruntimeconfig.cache
